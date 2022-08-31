@@ -1,5 +1,5 @@
 <div><h2>Olá! Eu sou o Gabriel Cunha 👋</h2></div>
-<hr><hr/>
+<hr>
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gcunhaa18/)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcunhaa18/)
@@ -14,7 +14,7 @@
 </ul>
 <br><br/>
 <h2>🛠️ Ferramentas</h2>
-<hr><hr/>
+<hr>
 
 <h3>💻 Front-end</h3>
 <div style="display: inline_block">
@@ -27,7 +27,7 @@
 <div style="display: inline_block">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
-<hr><hr/>
+<hr>
 
 <h2>🔎 Sobre meu perfil:</h2>
 
