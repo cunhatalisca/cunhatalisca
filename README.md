@@ -12,7 +12,7 @@
 <li>🏃‍♂️ Em meus tempos livres, gosto de praticar esportes, tais como: Futebol, futevôlei, natação, taekwondo e outros demasiados tipos. Além dos esportes, costumo assistir séries/filmes e ler livros.</li>
 <li>🪕 Sou bastante eclético referente à música, mas costumo escutar frequentemente gêneros como: pagode, rap, sertanejo e samba.</li>
 </ul>
-<h2>🛠️ Ferramentas</h2>
+<h2>🛠️ Tecnologias:</h2>
 <hr>
 
 <h3>💻 Front-end</h3>
