@@ -7,7 +7,7 @@
 
 <h2>🙋‍♂️ Um pouco sobre mim:</h2>
 <ul>
-<li>💻 Comecei a programar aos 17 anos. Meu primeiro contato com a programação foi através da criação de site para um amigo meu, e, a partir disso, surgiu o gosto pelo "web development". Atualmente sou estudante de engenharia de software - 2°Período.</li>
+<li>💻 Comecei a programar aos 18 anos. Meu primeiro contato com a programação foi através da criação de site para um amigo meu, e, a partir disso, surgiu o gosto pelo "web development". Atualmente sou estudante de engenharia de software - 2°Período.</li>
 <li>🏃‍♂️ Em meus tempos livres, gosto de praticar esportes, tais como: Futebol, futevôlei, natação, taekwondo e outros demasiados tipos. Além dos esportes, costumo assistir séries/filmes e ler livros.</li>
 <li>🪕 Sou bastante eclético referente à música, mas costumo escutar frequentemente gêneros como: pagode, rap, sertanejo e samba.</li>
 </ul>
