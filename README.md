@@ -8,7 +8,7 @@
 
 <h2>🙋‍♂️ Um pouco sobre mim:</h2>
 <ul>
-<li>💻 Comecei a programar aos 18 anos. Meu primeiro contato com a programação foi através da criação de site para um amigo meu, e, a partir disso, surgiu o gosto pelo "web development". Atualmente sou estudante de engenharia de software - 2°Período.</li>
+<li>💻 Olá! Meu nome é Gabriel Cunha, tenho 18 anos e sou estudante de Engenharia de software - 2°Período. Atuo na área de análise de dados, inteligência artificial e no desenvolvimento Front-End. </li>
 <li>🏃‍♂️ Em meus tempos livres, gosto de praticar esportes, tais como: Futebol, futevôlei, natação, taekwondo e outros demasiados tipos. Além dos esportes, costumo assistir séries/filmes e ler livros.</li>
 <li>🪕 Sou bastante eclético referente à música, mas costumo escutar frequentemente gêneros como: pagode, rap, sertanejo e samba.</li>
 </ul>
@@ -21,10 +21,11 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div><br/>
-<h3>🔧 Back-end</h3>
+<h3>🔧 Data-Science</h3>
 <div style="display: inline_block">
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 <hr>
