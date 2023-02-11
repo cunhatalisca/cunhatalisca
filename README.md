@@ -8,7 +8,7 @@
 
 <h2>🙋‍♂️ Um pouco sobre mim:</h2>
 <ul>
-<li>💻 Olá! Meu nome é Gabriel Cunha, tenho 18 anos e sou estudante de Engenharia de software - 2°Período. Atuo na área de análise de dados, inteligência artificial, back-end e no desenvolvimento Front-End. </li>
+<li>💻 Olá! Meu nome é Gabriel Cunha, tenho 18 anos e sou estudante de Engenharia de software - 3°Período. Atuo na área back-end e no desenvolvimento Front-End. </li>
 <li>🏃‍♂️ Em meus tempos livres gosto de praticar esportes, tais como: Futebol, futevôlei, natação, taekwondo e outros demasiados tipos. Além dos esportes, costumo assistir séries/filmes e ler livros.</li>
 <li>🪕 Sou bastante eclético referente à música, mas costumo escutar frequentemente gêneros como: pagode, rap, sertanejo e samba.</li>
 </ul>
