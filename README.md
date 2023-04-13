@@ -25,7 +25,7 @@
 </div><br/>
 <h3>🔧 Back-End</h3>
 <div style="display: inline_block">
-
+  <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 <hr>
