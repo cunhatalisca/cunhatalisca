@@ -19,7 +19,8 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=cunhatalisca&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunhatalisca&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-
+<br>
+  
 <div style="display: inline_block">
    <img align="center" height="30" width="40" alt="gabriel-js"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" alt="gabriel-react"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
