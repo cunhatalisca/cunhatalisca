@@ -20,6 +20,7 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunhatalisca&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <br>
+  
 ### ⚙ Languages and Tools:
 <div style="display: inline_block">
    <img align="center" height="30" width="40" alt="gabriel-js"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
