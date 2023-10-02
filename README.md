@@ -11,7 +11,7 @@
 <ul>
 <li>💻 Hello! My name is Gabriel Cunha, i'm 19 years old and i'm a software engineering student. I work in the back-end area and Front-End development. </li>
 <li>🏃‍♂️ In my free time I like to practice sports, such as: Football, footvolley, swimming, taekwondo and many other types. In addition to sports, I usually watch series/movies and read books.</li>
-<li>🪕 I'm quite eclectic when it comes to music, but I often listen to genres such as: pagode, rap, sertanejo and samba</li>
+<li>🪕 I'm quite eclectic when it comes to music, but I often listen to genres such as: pagode, trap and funk. </li>
 </ul>
 
 <div>
